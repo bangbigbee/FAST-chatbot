@@ -1,0 +1,32 @@
+{
+  "name": "BenjiChaBot",
+  "version": "0.5.0",
+  "description": "our first facebook bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "let's test version 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "add later"
+  },
+  "keywords": [
+    "facebook",
+    "messenger",
+    "bot",
+    "node",
+    "heroku"
+  ],
+  "author": "Nguyen Tri Bang",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "node-vntokenizer": "0.0.2",
+    "node-wit": "^4.3.0",
+    "request": "^2.88.0",
+    "stemmer": "^1.0.2",
+    "stopword": "^0.1.9"
+  },
+  "devDependencies": {}
+}
